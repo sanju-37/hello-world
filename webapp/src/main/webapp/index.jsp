@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Eidiko system integrators !!! </h1>
+<h1> Hello, Welcome and bye to Eidiko system integrators !!! </h1>
 
